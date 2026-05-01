@@ -1,0 +1,36 @@
+# Barındırma / Hosting
+_site/
+docs/
+
+# Bağımlılıklar / Dependencies
+node_modules/
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi / OS
+.DS_Store
+Thumbs.db
+
+# Geçici dosyalar / Temp
+*.tmp
+*.log
+*.bak
+
+# Derlenmiş dosyalar / Build
+dist/
+build/
+*.min.js
+*.min.css
+
+# Ortam değişkenleri / Environment
+.env
+.env.local
+.env.*.local
+
+# Git
+*.orig
